@@ -7,10 +7,10 @@ My name is Maksym, and I am a... full stack dev.
 
 ## Contact me
 [![Static Badge](https://img.shields.io/badge/telegram-4b99e0?style=flat&logo=telegram&logoColor=%23ffffff&labelColor=4b99e0&link=https://www.google.com.ua)](https://t.me/MaksDevUa)
-![Static Badge](https://img.shields.io/badge/reddit-ff4500?style=flat&logo=Reddit&logoColor=%23ffffff&labelColor=%23ff4500&link=https%3A%2F%2Ft.me%2FMaksDevUa)
-![Static Badge](https://img.shields.io/badge/discord-5865f2?style=flat&logo=Discord&logoColor=%23ffffff&labelColor=%235865f2&link=https%3A%2F%2Ft.me%2FMaksDevUa)
-![Static Badge](https://img.shields.io/badge/LinkedIn-0c64c5?style=flat&logo=LinkedIn&logoColor=%23ffffff&labelColor=%230c64c5)
-![Static Badge](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&labelColor=%23ffffff)
+[![Static Badge](https://img.shields.io/badge/reddit-ff4500?style=flat&logo=Reddit&logoColor=%23ffffff&labelColor=%23ff4500&link=https%3A%2F%2Ft.me%2FMaksDevUa)](https://www.reddit.com/user/pastaman235/)
+[![Static Badge](https://img.shields.io/badge/discord-5865f2?style=flat&logo=Discord&logoColor=%23ffffff&labelColor=%235865f2&link=https%3A%2F%2Ft.me%2FMaksDevUa)](https://discord.com/users/290464494906245121)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0c64c5?style=flat&logo=LinkedIn&logoColor=%23ffffff&labelColor=%230c64c5)](https://www.linkedin.com/in/maksym-andriichuk/)
+[![Static Badge](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&labelColor=%23ffffff)](andrichukwork235@gmail.com)
 
 Feel free to reach out to me; I'm always open to new connections and collaborations!
 <!--
