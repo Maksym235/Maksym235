@@ -6,7 +6,7 @@ My name is Maksym, and I am a... full stack dev.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,postman,graphql,git,github,mongodb,vite)](https://skillicons.dev)
 
 ## Contact me
-![Static Badge](https://img.shields.io/badge/telegram-4b99e0?style=flat&logo=telegram&logoColor=%23ffffff&labelColor=4b99e0&link=https%3A%2F%2Ft.me%2FMaksDevUa)
+[![Static Badge](https://img.shields.io/badge/telegram-4b99e0?style=flat&logo=telegram&logoColor=%23ffffff&labelColor=4b99e0&link=https://www.google.com.ua)](https://t.me/MaksDevUa)
 ![Static Badge](https://img.shields.io/badge/reddit-ff4500?style=flat&logo=Reddit&logoColor=%23ffffff&labelColor=%23ff4500&link=https%3A%2F%2Ft.me%2FMaksDevUa)
 ![Static Badge](https://img.shields.io/badge/discord-5865f2?style=flat&logo=Discord&logoColor=%23ffffff&labelColor=%235865f2&link=https%3A%2F%2Ft.me%2FMaksDevUa)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-0c64c5?style=flat&logo=LinkedIn&logoColor=%23ffffff&labelColor=%230c64c5)
